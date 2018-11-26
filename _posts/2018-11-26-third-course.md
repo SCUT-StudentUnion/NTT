@@ -28,11 +28,11 @@ categories: 培训
 
 #### VS Code 的一些插件（都是我自用的 qwq）
 
--   Live Server ![Live Server](./image/1.png)
+-   Live Server ![Live Server](image/1.png)
 
--   这个是代码自动补全的![这个是代码自动补全的](./image/2.png)
+-   这个是代码自动补全的![这个是代码自动补全的](image/2.png)
 
--   代码自动美化![代码自动美化](./image/3.png)
+-   代码自动美化![代码自动美化](image/3.png)
 
 ### &ensp;**前端进阶篇**
 
