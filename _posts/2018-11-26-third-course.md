@@ -6,7 +6,7 @@ categories: 培训
 
 # **第三次培训以及其他**
 
-#### **这次的作业：写一个静态 HTML 页面, DDL:&ensp;** <font color=#FF0000 >**你们军训之前**</font>
+#### **这次的作业：写一个静态 HTML 页面, DDL:&ensp;** **你们军训之前**
 
 备注一下：这次的作业我们会挂到 GitHub Page 上哦
 
@@ -18,7 +18,7 @@ categories: 培训
 
 让我们正式开始吧~~
 
-### <font color=#008000>&ensp;**前端入门篇**</font>
+### &ensp;**前端入门篇**
 
 -   [HTML 教程](http://www.runoob.com/html/html-tutorial.html)
 -   [CSS 教程](http://www.runoob.com/css/css-tutorial.html)
@@ -36,7 +36,7 @@ categories: 培训
 
     </br>
 
-### <font color=#008000>&ensp;**前端进阶篇**</font>
+### &ensp;**前端进阶篇**
 
 1. [**轻量级框架 Bootstrap**](https://v4.bootcss.com/)
 
@@ -57,11 +57,11 @@ categories: 培训
     - [Node.js](http://nodejs.cn/) (这是一个 JavaScript 运行环境，类似于 Python...另外 JavaScript 也是可以写后端的，有兴趣的可以了解一下)
     - npm (Node package manager)，JavaScript 的包管理工具，类似于 pip，安装 node.js 时自带
 
-​ 有了上面的这些东西，我们就可以做很多很多东西了，最典型的就是单个网页的应用。<font color=#FF0000>**所以，我们的寒假作业也会基于此**</font>
+​ 有了上面的这些东西，我们就可以做很多很多东西了，最典型的就是单个网页的应用。**所以，我们的寒假作业也会基于此**
 
 另外，[bootcss.com](http://www.bootcss.com/) 的主页中有许多有意思的基于 Bootstrap 的库，大家可以随意了解一下</br>
 
-### <font   color=#008000>前端框架篇</font>
+### 前端框架篇
 
 ​ 所谓的框架，大概就是一整套别人写好的开发环境，在开发时底层代码自动由环境打包而不需要我们来管，以便于快速开发规模比较大的项目。当然，作为代价，刚开始接触框架的时候的环境配置是真的挺复杂的。
 
@@ -71,17 +71,17 @@ categories: 培训
 
 ​
 
-​ 综上，前端看起来很简单，但是经过这么多年的发展，复杂起来也是十分复杂的。当然总的来说，前端还是比后端要简单的。所以，喜欢这种 <font color=#008000 size=4>**与图形界面打交道**</font> 的同学就可以考虑走前端路线哦
+​ 综上，前端看起来很简单，但是经过这么多年的发展，复杂起来也是十分复杂的。当然总的来说，前端还是比后端要简单的。所以，喜欢这种 **与图形界面打交道** 的同学就可以考虑走前端路线哦
 
 ---
 
-### <font color=#008000>后端入门篇</font>
+### 后端入门篇
 
 ​ emmmmm 现在到了后端，真正的后端其实不仅仅只有编程语言这一部分，还有服务器、数据库、底层理论等等东西，所以在这里我们一个个说。（不过放心，在 NTT 里后端也并不复杂）
 
 后端可以选择的语言有很多，虽然我们讲的是 JAVA，但是还有很多其他的语言，如果对哪个有兴趣完全可以用（后端对前端相当于黑箱），所以我在这里贴一些语言的教程吧
 
--   JAVA：JAVA 这个语言，如果要学深一点的话建议看一些慕课和书，其中最经典的就是《Thinking in JAVA》了，不过它实在太厚了所以个人不太建议你们看....至于慕课什么的我也不是很清楚了不过 [这里](http://www.runoob.com/java/java-tutorial.html) 的教程让你简单入门，然后直接到<font color=#008000>**进阶篇**</font>还是没问题的
+-   JAVA：JAVA 这个语言，如果要学深一点的话建议看一些慕课和书，其中最经典的就是《Thinking in JAVA》了，不过它实在太厚了所以个人不太建议你们看....至于慕课什么的我也不是很清楚了不过 [这里](http://www.runoob.com/java/java-tutorial.html) 的教程让你简单入门，然后直接到**进阶篇**还是没问题的
 
 -   [PHP：](http://www.runoob.com/php/php-tutorial.html) PHP 是专门为服务器而生的语言，所以十分流行
 -   JavaScript：自从 Node.js 出现之后，JS 也可以用来写后端了，很大程度上方便了一些前端工程师
